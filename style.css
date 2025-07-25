@@ -1,0 +1,301 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#main{
+    height: 100%;
+    width: 100%;
+
+}
+#Header{
+    height: 10vh;
+    width: 100%;
+    background-color:white ;
+    z-index: 5;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#logo{
+    height: 70%;
+   
+}
+#logo img{
+    width: auto;
+    height: 100%;
+    object-fit: cover;
+}
+.text{
+    
+    color: black;
+}
+#page1{
+    height: 100vh;
+    width: 100%;
+    
+   
+}
+#strip{
+    background-color: blue;
+    width: 100%;
+    height: 4%;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+    position: relative;
+    z-index: 1;
+}
+#content{
+    width: 100%;
+    height: 72%;
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+#box1{
+    height: 100%;
+    width: 50%;
+    background-color: white;
+    
+
+}
+#box2{
+    height: 100%;
+    width: 50%;
+    background-color: white;
+    object-fit: cover;
+
+}  
+#box2 img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}  
+    
+#info{
+    width: 100%;
+    height: 24%;
+    background-color: white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+#box1 h1{
+    font-weight: 600;
+    color: black;
+    font-size: 60px;
+    margin: 30px 10px;
+}
+#box1 p{
+    font-size:x-large;
+    margin: 20px 10px;
+
+}
+#btn1{
+    text-align: center;
+    margin: 10px;
+    padding: 10px 20px;
+    color: white;
+    background-color: rgba(29, 6, 241, 0.861);
+    width: 16%;
+}
+#btn1:hover{
+    background-color: lightblue;
+    color: black;
+    border-color: black;
+}
+#btn2{
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px 20px;
+    color: white;
+    background-color: blue;
+    width: 16%;
+}  
+#btn2:hover{
+    background-color: lightblue;
+    color: black;
+    border-color: black;
+    border-radius: 5px;
+}   
+#page2{
+    
+    width: 100%;
+    background-color:white ;
+    width: 100%;
+    display: flex;
+    
+   
+}
+.cl{
+    width: 20%;
+    height: 65%;
+    margin:auto ;
+    
+    align-items: center;
+    margin-top: 30px;
+    border: 2px solid black;
+    
+    
+}
+
+#small img{
+    height: 40%;
+    width: 100%;
+    object-fit: cover;
+}
+#small h2{
+    margin: 15px;
+}
+#small h4{
+    margin: 30px;
+}
+#small h3{
+   margin-top: 30px;
+   margin-left: 10px;
+}
+#small h3:hover{
+    color: indigo;
+}
+#cloud img{
+    height: 40%;
+    width: 100%;
+    object-fit: cover;
+}
+#cloud h2{
+    margin: 15px;
+}
+#cloud h4{
+    margin: 30px;
+}
+#cloud h3{
+   margin-top: 47px;
+   margin-left: 10px;
+}
+#cloud h3:hover{
+    color: indigo;
+}
+#service img{
+    height: 40%;
+    width: 100%;
+    object-fit: cover;
+}
+#service h2{
+    margin: 15px;
+}
+#service h4{
+    margin: 30px;
+}
+#service h3{
+   margin-top: 35px;
+   margin-left: 10px;
+}
+#service h3:hover{
+    color: indigo;
+}
+#marketing img{
+    height: 40%;
+    width: 100%;
+    object-fit: cover;
+}
+#marketing h2{
+    margin: 15px;
+}
+#marketing h4{
+    margin: 30px;
+}
+#marketing h3{
+   margin-top: 35px;
+   margin-left: 10px;
+}
+#marketing h3:hover{
+    color: indigo;
+}
+.icon{
+    
+    padding: 7px;
+    border-radius: 50%;
+}
+.icon:hover{
+    background-color: rgb(107, 107, 247);
+}
+#login{
+    padding: 10px;
+    border-radius: 50px;
+
+    
+    display: flex;
+}
+
+#contact{
+    margin-left: 30px;
+    align-items: center;
+
+}
+#more{
+    display: flex;
+}
+#login:hover{
+    background-color:greenyellow ;
+}
+.text:hover{
+    
+    color:rgb(12, 12, 245) ;
+}
+#contact:hover{
+    color: blue;
+}
+#try{
+    background-color: rgba(0, 128, 0, 0.692);
+    padding: 10px 20px ;
+    color: aliceblue;
+}
+#try:hover{
+    background-color: rgba(0, 128, 0, 0.966);
+}
+#btn{
+    display: flex;
+    
+   
+   
+} 
+#fakeheader{
+    height: 10vh;
+}
+
+#btnwrap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    padding-bottom: 30px;
+   
+   
+}
+#btn3{
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    background-color: blue;
+    cursor: pointer;
+    font-size: 16px;
+}
+#btn3:hover{
+    background-color: white;
+    color: black;
+}
+    
+
+
