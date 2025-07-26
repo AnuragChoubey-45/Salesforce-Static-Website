@@ -29,7 +29,8 @@ To build a visually appealing and structured website inspired by Salesforce, foc
 ---
 
 ## 📸 Screenshots
-
+![Screenshot 18](https://github.com/AnuragChoubey-45/Salesforce-Static-Website/blob/main/Screenshot%20(18).png?raw=true)
+![Screenshot 19](https://github.com/AnuragChoubey-45/Salesforce-Static-Website/blob/main/Screenshot%20(19).png?raw=true)
  
 ---
 
