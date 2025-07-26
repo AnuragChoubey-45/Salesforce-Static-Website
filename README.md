@@ -4,7 +4,7 @@ A responsive, Salesforce-themed static website built using **HTML** and **CSS**.
 This project was created as part of my **learning journey in web development**, focusing on layout design, component structuring, and clean user interface practices.
 
 > 🔗 **Live Demo**: [View Website](https://anuragchoubey-45.github.io/Salesforce-Static-Website)  
-> 📂 **Source Code**: [GitHub Repository](https://anuragchoubey-45.github.io/Salesforce-Static-Website/)
+> 📂 **Source Code**: [GitHub Repository](https://github.com/AnuragChoubey-45/Salesforce-Static-Website.git)
 
 ---
 
